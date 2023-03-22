@@ -1,0 +1,44 @@
+/* HEADER */
+
+header {
+    height: 50px;
+    width: 100%;
+    background-color: #e6e6e6;
+}
+
+/* MAIN */
+
+span {
+    color: rgba(0, 223, 107, 1);
+}
+.container h1 {
+    font-size: 3rem;
+    color: rgba(0, 22, 50, 1);
+}
+
+.container h2 {
+   color: rgba(0, 22, 50, 1);
+}
+
+.container h5 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: rgba(0, 22, 50, 1);
+}
+
+p {
+    font-weight: bold;
+    color: rgba(0, 223, 107, 1);
+}
+
+/* FOOTER */
+
+footer {
+    height: 75px;
+    background-color: #e6e6e6;
+}
+
+footer h2 {
+    color: rgba(0, 22, 50, 1);
+    font-size: 1.5rem;
+}
